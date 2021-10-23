@@ -1,0 +1,16 @@
+body {
+    background-color: #cad2c5;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+head {
+    color: blue;
+    background-color: #84a98c;
+}
+
+footer {
+    color: darkslategrey;
+    background-color: #84a98c;
+}
